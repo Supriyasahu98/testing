@@ -5,4 +5,5 @@ elsif x <= 2 and x!=0
    puts "x is 1"
 else
    puts "I can't guess the number"
+   puts "hello"
 end
