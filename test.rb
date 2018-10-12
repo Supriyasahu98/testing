@@ -1,4 +1,4 @@
-x = 3
+x = 1000000
 if x > 5
    puts "x is greater than 2"
 elsif x <= 4 and x!=0
