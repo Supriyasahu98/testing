@@ -1,4 +1,4 @@
-x = 4
+x = 6
 puts 
 if x > 2
    puts "x is grea2ter than "
